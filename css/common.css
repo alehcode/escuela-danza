@@ -1,0 +1,52 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+
+.inferior{
+	height: 550px;
+	background-image: url("../img/shoes_1.jpg");
+	background-size: 60%;
+	background-position: right;
+	background-repeat: no-repeat;
+}
+label {
+display:block;
+margin-top:20px;
+letter-spacing:1px;
+}
+.formulario {
+display:block;
+margin:0 auto;
+width:510px;
+color: white;
+font-family:Arial;
+}
+form {
+margin:0 auto;
+width:400px;
+}
+
+input, textarea {
+width:380px;
+height:27px;
+background: white;
+border: 1px solid grey;
+padding:10px;
+margin-top:5px;
+font-size:10px;
+color:red;
+}
+
+textarea {
+height:150px;
+}
+
+#submit {
+width:85px;
+height:35px;
+border:none;
+margin-top:20px;
+cursor:pointer;
+}
+h6{
+	font-size: 25px;
+	color: #192951;
+}
